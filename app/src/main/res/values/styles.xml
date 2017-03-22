@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="RangePickerCircle">
+        <item name="android:background">@drawable/range_picker_circle</item>
+        <item name="android:layout_width">@dimen/range_picker_circle_size</item>
+        <item name="android:layout_height">@dimen/range_picker_circle_size</item>
+    </style>
+
+</resources>

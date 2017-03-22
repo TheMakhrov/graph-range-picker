@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalDraggableView">
+        <attr name="overdraggable" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="DragCircle">
+        <attr name="circleState" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
